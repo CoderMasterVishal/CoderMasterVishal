@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right alt="coding" width="400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0u8Sr2LJ3Y10Dhh3lA_hAH&ust=1729189075633000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjXl-bBk4kDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-vishal-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="developer-vishal-kumar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-vishal-kumar" alt="developer-vishal-kumar" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -24,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-vishal-kumar&show_icons=true&locale=en" alt="developer-vishal-kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-vishal-kumar&" alt="developer-vishal-kumar" /></p>
