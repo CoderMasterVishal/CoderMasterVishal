@@ -1,13 +1,22 @@
+![logo](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+
+<img align="center" alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-vishal-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="developer-vishal-kumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-vishal-kumar" alt="developer-vishal-kumar" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning on **Portfolio Website**
+
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **vishalkumar06762@gmail.com**
+
+- My Personal Linktre :- https://linktr.ee/codewithvishal?utm_source=linktree_profile_share&ltsid=2e56cb32-5c8c-40a6-960c-9e1d0baf1f4b
 
 - 📄 Know about my experiences [0-6month](0-6month)
 
